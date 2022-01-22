@@ -17,7 +17,8 @@
    --
 ## Explicacion .Gitignore
   1. Me he creado mi fichero .gitignore
-  2. 
+  2. Me salta un mensaje al realizar mi git status donde me aparece mi archvio Readme y abajo de este
+  un mensaje que nos indica que todos los arhivos dentro de ese fichero seran ignorados
 
 
 

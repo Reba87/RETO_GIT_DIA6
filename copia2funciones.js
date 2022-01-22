@@ -1,10 +1,7 @@
 // DECLARANDO FUNCIONES DEJO EL VALOR AGREGADO POR SI HAY ALGUN ERROR.
 
 
-function suma(op1,op2 =0) {
-    let resultado = op1 + op2;
-    return resultado
-  }
+
   
   function resta(op1,op2 =0) {
     let resultado = op1 - op2;

@@ -14,6 +14,14 @@
 8. Hacemos un git status para ver en que punto estamos.
 9. Luego de finalizar las modificaciones a nuestros archivos, realizamos un Git add, luego un Git commit
    y por ultimo un Git Push para subir todo a nuestro repositorio remoto.
+   --
+## Explicacion .Gitignore
+  1. Me he creado mi fichero .gitignore
+  2. 
 
 
-# NOTA IMPORTANTE: AL REALIZAR EL GIT COMMIT SIEMPRE DEBEMOS COLOCAR GIT COMMIT -M "NOMBRE ARCHIVO", DE LO CONTRARIO DARA ERROR
+
+
+
+--
+## NOTA IMPORTANTE: AL REALIZAR EL GIT COMMIT SIEMPRE DEBEMOS COLOCAR GIT COMMIT -M "NOMBRE ARCHIVO", DE LO CONTRARIO DARA ERROR
